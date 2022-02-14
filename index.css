@@ -170,5 +170,12 @@ footer {
     padding-top: 20px;
 }
 
+@media only screen and (max-width: 620px) {
+  /* For mobile phones: */
+  .cotainer {
+    width: 100%;
+  }
+}
+
 
 
